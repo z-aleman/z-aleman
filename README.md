@@ -10,3 +10,4 @@ I'm learning cloud engineering through [Learn to Cloud](https://learntocloud.gui
 ## Goals
 - Finish the Learn to Cloud curriculum
 - Get comfortable with Git, the command line, and cloud fundamentals
+- Dive into Cloud Security next
