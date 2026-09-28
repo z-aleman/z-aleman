@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**z-aleman/z-aleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# Hi, I'm zoe
+## Hi there 👋, I'm zoe
 
 I'm learning cloud engineering through [Learn to Cloud](https://learntocloud.guide).
 
